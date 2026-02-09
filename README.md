@@ -18,7 +18,7 @@ This repository provides a Rust-based tool to efficiently parse large log files 
 1. **Clone the repository:**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/brewlabshq/validator-datapoints.git
 ```
 
 2. **Build the project:**
